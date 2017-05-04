@@ -1,0 +1,12 @@
+baseURL = "http://songfoo.com/"
+languageCode = "en-us"
+title = "SongFoo"
+
+relativeURLS=true
+
+[params]
+ 	ProfilePicture = "intro-bg.jpg"
+	[links]
+    	Home = "/"
+    	Venue Questionnaire = "/services/"
+    	FAQ = "/post/"

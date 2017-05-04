@@ -1,0 +1,13 @@
+baseURL : "http://songfoo.com/"
+languageCode : "en-us"
+title : "SongFoo"
+relativeURLS : true
+params:
+  ProfilePicture: "/img/intro-bg.jpg"
+  enableLandingPage : false
+  AuthorName : "Zac Wolfe"
+  links :
+    Home : "/"
+    Venue Questionnaire : "/services/questionnaire"
+    FAQ : "/post/faq"
+    About : "/about/"

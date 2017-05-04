@@ -1,5 +1,0 @@
-baseURL = "http://songfoo.com/"
-languageCode = "en-us"
-title = "SongFoo"
-
-relativeURLS=true
